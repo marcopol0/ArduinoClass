@@ -8,4 +8,12 @@ This project is for me for not reprogramming each time my sensor
 
 If you find a mistake please let me know :) ! Thanks
 
+Classe pour des capteurs/actionneurs arduino
+
+1) Choissisez la classe qui vous intéresse
+2) Copier cette classe dans vos bibliothèque arduino (arduino/libraries)
+3) Utilisez la classe
+
+Si vous trouvez une erreur, merci de me prévenir :) !
+
 Marc
